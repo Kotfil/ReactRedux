@@ -1,0 +1,7 @@
+F:\C# project\Popov\FirstApp1\FirstApp1\bin\Debug\FirstApp1.exe.config
+F:\C# project\Popov\FirstApp1\FirstApp1\bin\Debug\FirstApp1.exe
+F:\C# project\Popov\FirstApp1\FirstApp1\bin\Debug\FirstApp1.pdb
+F:\C# project\Popov\FirstApp1\FirstApp1\obj\Debug\FirstApp1.csprojAssemblyReference.cache
+F:\C# project\Popov\FirstApp1\FirstApp1\obj\Debug\FirstApp1.csproj.CoreCompileInputs.cache
+F:\C# project\Popov\FirstApp1\FirstApp1\obj\Debug\FirstApp1.exe
+F:\C# project\Popov\FirstApp1\FirstApp1\obj\Debug\FirstApp1.pdb
