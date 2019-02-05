@@ -17,10 +17,19 @@ namespace ConsoleApp1
 
             //if..else switch
 
-            for(int i=0;i<9;i++) // счетчик; условие; изменение счетчика
+            //  int i = 0;
+            // for (; ; )
+            //{
+            //  Console.WriteLine($"{i} - {i * i}");
+            //i++;
+            int i = -4;
+            do
             {
-                Console.WriteLine($"{i} - {i * i}");
+                Console.WriteLine(i);
+                i--;
             }
+            while (i > 0);
+        }
             Console.ReadKey();
         }
     }
