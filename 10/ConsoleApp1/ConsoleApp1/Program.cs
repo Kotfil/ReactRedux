@@ -10,27 +10,19 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //for
-            //while
-            //do..while
-            //foreach
+            int[] numbers = {1,2,3,4}; //0 - 3
 
-            //if..else switch
-
-            //  int i = 0;
-            // for (; ; )
-            //{
-            //  Console.WriteLine($"{i} - {i * i}");
-            //i++;
-            int i = -4;
-            do
+           foreach(int i in numbers)
             {
                 Console.WriteLine(i);
-                i--;
             }
-            while (i > 0);
-        }
-            Console.ReadKey();
+            for (int i = 0;i<numbers.Length ; i++)
+                {
+                Console.WriteLine(numbers[i]);
+            }
+         
+                    
+                    Console.ReadKey();
         }
     }
 }
