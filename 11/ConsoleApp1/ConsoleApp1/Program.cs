@@ -10,13 +10,28 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-          
 
-            Method1();
-            Method2();
+            string s = Hello();
+            int c = Sum();
+            Console.WriteLine(c);
             Console.ReadKey();
 
         }
+
+        static string Hello()
+        {
+            return "hello world!";
+        }
+        static int Sum()
+        {
+            int x = 2;
+            int y = 3;
+            int z = x + y;
+            return z;
+        }
+
+
+
         static void Method1()
         {
             Console.WriteLine("Method1");
