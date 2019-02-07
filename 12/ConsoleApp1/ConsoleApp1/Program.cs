@@ -8,23 +8,24 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
+        // контекст класса
+        // контекст метода
+
+        static int x = 9;
+       static void Main(string[] args)
         {
-            int z = 5;
-            int d = 6;
-            Console.WriteLine($"Initial value z = {z}");
-            AditionVal(z, d);
-        }
-        static void AdditionRef(ref int x, int y)
+            int x = 18;
+            x++;
+
+            Console.WriteLine(x);
+            Console.ReadKey();
+             }
+        static void Display();
         {
-            x = x + y;
-        }
-            static void AdditionVal(int x, int y)
-        {
-            x = x + y;
-        }
-        static string Hello()
-        }
-    return "hello world!";
+        int s = 7;
+        //d++
+        x = x + 9;
+    }
+       
     }
 }
