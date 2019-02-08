@@ -5,18 +5,12 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ConsoleApp1")]
+[assembly: AssemblyTitle("FirstApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-<<<<<<< HEAD
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleApp1")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
-=======
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("ConsoleApp1")]
+[assembly: AssemblyProduct("FirstApp")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
->>>>>>> 94c2eba02a9ca1d69f0abef0b8705521169ecbcd
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -26,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-<<<<<<< HEAD
-[assembly: Guid("d9fe459f-f913-4c60-a936-6130b1c016df")]
-=======
-[assembly: Guid("ce2ee7eb-8a63-47a2-95bc-da28dd2d5e1f")]
->>>>>>> 94c2eba02a9ca1d69f0abef0b8705521169ecbcd
+[assembly: Guid("baf54933-cd35-48d2-9066-4209906bf509")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
