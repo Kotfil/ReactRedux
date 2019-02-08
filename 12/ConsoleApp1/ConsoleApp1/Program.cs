@@ -10,22 +10,27 @@ namespace ConsoleApp1
     {
         // контекст класса
         // контекст метода
+        // контекст блока кода
 
         static int x = 9;
+        static int x = 45;
        static void Main(string[] args)
         {
-            int x = 18;
+            int x = 18;   
             x++;
-
             Console.WriteLine(x);
             Console.ReadKey();
+
+
+        }
+           
              }
-        static void Display();
+     static void Display()
         {
-        int s = 7;
-        //d++
-        x = x + 9;
-    }
+            int s = 7;
+            //d++;
+            x = x + 9;
+        }
        
     }
 }
