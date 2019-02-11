@@ -17,10 +17,18 @@ namespace ConsoleApp1
                 nums[5] = 10;
                 Console.WriteLine("end of try block");
             }
-            catch(Exception ex)
+            catch(IndexOutOfRangeException ex)
             {
                 Console.WriteLine($"Error occured: {ex.Message}");
             }
+            
+           
+        
+            finally
+            {
+                Console.WriteLine("Finallity block");
+            }
+
             Console.ReadKey();
         }
     }
