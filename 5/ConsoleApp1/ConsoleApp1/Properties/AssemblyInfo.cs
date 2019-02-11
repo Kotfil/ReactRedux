@@ -8,15 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ConsoleApp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-<<<<<<< HEAD
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("ConsoleApp1")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
-=======
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ConsoleApp1")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
->>>>>>> cf6037f249a7c5206d31d29e21419f956e53fcd3
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -26,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-<<<<<<< HEAD
-[assembly: Guid("daa793c4-48fa-4113-875b-5dd807a9049f")]
-=======
-[assembly: Guid("ae9b0995-2391-46a6-8315-6d8bf1a252fa")]
->>>>>>> cf6037f249a7c5206d31d29e21419f956e53fcd3
+[assembly: Guid("2c9c4247-4358-4d19-a5e4-839ec2ffd9aa")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

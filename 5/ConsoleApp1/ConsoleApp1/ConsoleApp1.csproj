@@ -4,11 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{E9E32C41-73B6-401F-B4C3-2812873842FE}</ProjectGuid>
-=======
-    <ProjectGuid>{9DA9E127-B432-4D22-8571-56B00987033C}</ProjectGuid>
->>>>>>> cf6037f249a7c5206d31d29e21419f956e53fcd3
+    <ProjectGuid>{2C9C4247-4358-4D19-A5E4-839EC2FFD9AA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConsoleApp1</RootNamespace>
     <AssemblyName>ConsoleApp1</AssemblyName>
@@ -49,10 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-<<<<<<< HEAD
-=======
-    <Compile Include="User.cs" />
->>>>>>> cf6037f249a7c5206d31d29e21419f956e53fcd3
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

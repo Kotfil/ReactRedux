@@ -8,6 +8,10 @@ namespace ConsoleApp1
 {
     class Program
     {
+<<<<<<< HEAD
+        static void Main(string[] args)
+        {
+=======
         // f(n) = n!;5!=1*2*3*4*5=120 
         // Factorial(5) = 5* Factorial(4) = 5 * 4 * Factorial(3) ..=5 * 4 * 3 * 2 * 1 * Factorial(0);
         static int Factorial(int n)
@@ -39,6 +43,7 @@ namespace ConsoleApp1
             Console.WriteLine(Factorial(4)); //24
             Console.WriteLine(Factorial(6)); //720
             Console.ReadKey();
+>>>>>>> 94c2eba02a9ca1d69f0abef0b8705521169ecbcd
         }
     }
 }

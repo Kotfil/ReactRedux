@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             State state1 = new State();
             State.state2 = new State();
 
@@ -49,3 +50,20 @@ namespace ConsoleApp1
     }
 }
 
+=======
+            Calculate(5);
+            Console.ReadKey();
+        }
+        static void Calculate (int t )
+        {
+            int x = 6;
+            int y = 7;
+            int z = y + t;
+
+
+
+        }
+
+    }
+}
+>>>>>>> cf6037f249a7c5206d31d29e21419f956e53fcd3
