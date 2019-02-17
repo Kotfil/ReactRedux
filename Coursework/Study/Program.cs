@@ -27,7 +27,7 @@ namespace Study
                 Console.Write("n\t01. NEW ACCOUNT");
                 Console.Write("\n\t02. DEPOSIT AMOUNT");
 
-            }
-        }
-    }
-}
+            
+        
+    
+

@@ -8,7 +8,7 @@ namespace Study
 {
     class accounts
     {
-        private int acno;
+        public int acno;
 
 
         public int useracno
@@ -73,9 +73,22 @@ namespace Study
     }
     public void account_report()
     {
-        Console.Write("Acno ::{0}")
-    }
-    {
+        Console.Write("Acno ::{0} \nName::{1} \nType::{2} \nDeposit::{3}\n", acno, name, type, deposit);
 
     }
+    public int retacno()
+        {
+        return acno;
+        }
+    public int retdeposit()
+    {
+        return deposit;
+    }
+    public char rettype()
+    {
+        return type;
+    }
+        
+    }
 }
+
