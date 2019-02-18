@@ -10,7 +10,7 @@ namespace Study
     {
         private void intro()
         {
-            Console.Write("\n\n\n\t\t\t BANK");
+            Console.Write("\n\n\n\t\t\t BANK"); //1
             Console.Write("\n\n\t\tMANAGMENT");
             Console.Write("\n\n\t\t\t SYSTEM");
             Console.Write("\n\n\t\tMADE BY : Kotenko Filipp");
