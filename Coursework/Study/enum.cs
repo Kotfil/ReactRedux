@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Study
 {
-    class enumprogram
+    class enumprogram // push
     {
         enum Bankdays
         {
