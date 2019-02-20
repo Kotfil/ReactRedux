@@ -8,7 +8,7 @@ namespace Study
 {
     class enumprogram // push
     {
-        enum Bankdays
+        enum Bankdays //push
         {
             Monday = 1, Tuesday = 2, Wednesday = 3,
             Thursday = 4, Friday = 5,
