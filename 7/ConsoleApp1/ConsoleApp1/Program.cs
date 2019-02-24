@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             try
             {
-                int a = 33;
+                int a = 33; //33
                 int c = 600;
                 byte b = checked((byte)(a + c));
                 Console.WriteLine(b);
