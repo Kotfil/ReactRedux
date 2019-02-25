@@ -29,7 +29,7 @@ namespace ConsoleApp1
         {
             double result = 0.0;
             switch (op)
-            {
+            { //1
                 case Operation.Add:
                     result = x + y;
                     break;
