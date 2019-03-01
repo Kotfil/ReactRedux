@@ -19,7 +19,7 @@ namespace ConsoleApp1
         static void ChangeUser(User user)
         {
             user.name = "Bob";
-            user.age = 33;
+            user.age = 33; //33
         }
     }
            struct  User
