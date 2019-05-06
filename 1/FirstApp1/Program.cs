@@ -20,6 +20,7 @@ class calculator
         {
             int z = x + y;
             Console.WriteLine($"Сумма{x}и{y} равна {z}");
+            //расчет 
         }
     }
 
